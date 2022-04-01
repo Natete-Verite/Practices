@@ -1,0 +1,110 @@
+nav>a{
+    text-align: right;
+    padding: 16px 18px;
+    font-size: medium;
+    color: black;
+    }
+    nav{
+        float: right;
+        padding-top: 70%;
+        padding-right: 10%;
+    }
+    nav>a:hover{
+        background-color: beige;
+        color: aqua;
+    }
+     body{
+        background-image:url(jolie.jpg);
+        background-position: unset;
+        background-size: 1500px;
+        background-repeat: no-repeat;
+        margin: 50px;
+        }
+        nav>a{
+        text-align: right;
+        padding: 16px 18px;
+        font-size: medium;
+        color: black;
+        }
+        nav{
+            float: right;
+            padding-top: 3%;
+        }
+        nav>a:hover{
+            background-color: beige;
+            color: rgb(4, 27, 27);
+        }
+      
+         img{
+            width: 150px;
+            border-radius: 80px;
+            /* padding-right: 100%; */
+         }
+         img{
+            width: 150px;
+            border-radius: 80px;
+         }
+         p{
+             text-align: center;
+             font: 1em sans-serif;
+             font-weight: 500;
+             padding-top: 80px;
+             font-size: 150%;
+             
+         }
+         *{
+             margin: 0;
+             padding: 0;
+         }
+         div{
+             margin: 0 auto;
+             width: 1000px;
+             position: fixed;
+         }
+         h1{
+             text-align: left;
+         }
+        .videowrapper{
+             position: relative;
+             padding-bottom: 56.25%;
+             padding-top: 25px;
+             
+             height: 0px;
+             width: fit-content;
+         }
+        .videowrapper iframe{
+            position: relative;
+            height: fit-content;
+            width: fit-content;
+            text-align: center;
+        }
+        table{
+            width: 500px;
+            position: relative;
+            padding-right: 1000%;
+        }
+        th{
+            text-align: left;
+        }
+        table, th, td{
+            border: 1px solid #000;
+            border-collapse: collapse;
+            position: relative;
+            margin-left: 650px;
+            margin-top: 25px;
+            font-size: 130%;
+        }
+        th, td{
+            padding: 10px;
+        }
+          
+        footer{
+            position: fixed;
+            bottom: 0;
+            padding-left: 40%;
+            background-color: black;
+            color: white;
+            width: 100%;
+            font-style: normal;
+        }
+    
